@@ -1,0 +1,35 @@
+body{
+   background-color: #B9FFF8;
+}
+
+h1 {
+  color: #4C0033;
+ }
+
+ h3{
+   color: #4C0033;
+ }
+
+ img:hover {
+   background-color: gold;}
+
+ .airplane{
+   background-color: #C3F8FF;
+ }
+ .truck{
+   background-color: #EFEFEF;
+ }
+ .ship{
+   background-color: #FFF5E4;
+ }
+ .circular{
+   border-radius: 100%;
+ }
+ 
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 5px;
+  width:5%
+}
